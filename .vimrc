@@ -21,7 +21,7 @@ Plugin 'scrooloose/nerdtree'
 " NerdCommenter
 Plugin 'scrooloose/nerdcommenter'
 
-" SuperTab
+" Supertab
 Plugin 'ervandew/supertab'
 
 " CtrlP
@@ -63,7 +63,8 @@ set et                      "编辑时将tab替换为空格
 set smarttab                "按一次退格键删除4个空格
 
 set ignorecase              "检索时忽略大小写
-set fileencodings=uft-8,gbk "使用utf-8或gbk打开文件
+set encoding=utf-8
+set fileencodings=uft-8     "使用utf-8或gbk打开文件
 set hls                     "检索时高亮显示匹配项
 set helplang=cn             "帮助系统设置为中文
 set foldmethod=syntax       "代码折叠
