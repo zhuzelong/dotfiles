@@ -98,8 +98,8 @@ set guifont=Monaco:h16
 "将<leader>+2映射为nerdtree的快捷键
 map <leader>2 :NERDTreeToggle<CR>
 
-"将<leader>+9映射为exec python的快捷键
-autocmd FileType python nnoremap <buffer> <leader>9 :exec '!python' shellescape(@%, 1)<CR>
+"Configure NerdCommenter, add extra space after the comment
+let NERDSpaceDelims=1
 
 let g:C_UseTool_cmake = 'yes'
 let g:C_UseTool_doxygen = 'yes'
