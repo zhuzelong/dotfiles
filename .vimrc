@@ -21,8 +21,8 @@ Plugin 'scrooloose/nerdtree'
 " NerdCommenter
 Plugin 'scrooloose/nerdcommenter'
 
-" Supertab
-Plugin 'ervandew/supertab'
+" YouCompleteMe
+Plugin 'Valloric/YouCompleteMe'
 
 " CtrlP
 Plugin 'kien/ctrlp.vim'
@@ -39,8 +39,6 @@ set modelines=0		" CVE-2007-2438
 set lines=32
 set columns=80
 
-" 调整ctrl＋p的补全模式
-set completeopt=menu,longest,preview
 " Normally we use vim-extensions. If you want true vi-compatibility
 " remove change the following statements
 set nocompatible	" Use Vim defaults instead of 100% vi compatibility
@@ -66,7 +64,6 @@ set ignorecase              "检索时忽略大小写
 set encoding=utf-8
 set fileencodings=uft-8     "使用utf-8或gbk打开文件
 set hls                     "检索时高亮显示匹配项
-set helplang=cn             "帮助系统设置为中文
 set foldmethod=syntax       "代码折叠
 "}}
 
@@ -79,7 +76,7 @@ nnoremap <leader>t : tabe<CR>
 "conf for plugins {{ 插件相关的配置
 "状态栏的配置 
 "powerline{
-set guifont=PowerlineSymbols\ for\ Powerline
+" set guifont=PowerlineSymbols\ for\ Powerline
 set nocompatible
 set t_Co=256
 let g:Powerline_symbols = 'fancy'
