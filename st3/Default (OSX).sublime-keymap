@@ -10,14 +10,4 @@
             }
         },
 
-        {
-            "keys": ["ctrl+t"],
-            "command": "side_bar_new_file2"
-        },
-
-        {
-            "keys": ["ctrl+3"],
-            "command": "side_bar_rename"
-        },
-
 ]
