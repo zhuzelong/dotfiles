@@ -91,9 +91,14 @@ let g:syntastic_python_checkers = ['pep8', 'pylint']
 
 "设定字体
 set guifont=Monaco:h16
+autocmd FileType tex setlocal guifont=Inconsolata:h18
+autocmd FileType tex setlocal columns=100
 
 "将<leader>+2映射为nerdtree的快捷键
 map <leader>2 :NERDTreeToggle<CR>
+" Mapping for LaTeX-Box
+map <leader>l :Latexmk<CR>
+map <leader>v :LatexView<CR>
 
 "Configure NerdCommenter, add extra space after the comment
 let NERDSpaceDelims=1
@@ -103,6 +108,9 @@ let g:C_UseTool_doxygen = 'yes'
 
 let g:ctrlp_map = '<c-p>'
 let g:ctrl_cmd = 'CtrlP'
+
+" Set default tex filetype
+let g:tex_flavor='latex'
 
 syntax enable
 set background=light

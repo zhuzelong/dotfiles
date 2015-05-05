@@ -1,0 +1,20 @@
+[
+        { "keys": ["f1"],
+            "command": "side_bar_open_in_browser" ,
+            "args":{"paths":[], "type":"testing", "browser":""}
+        },
+        { "keys": ["ctrl+f2"],
+            "command": "side_bar_open_in_browser",
+            "args":{"paths":[], "type":"production", "browser":""}
+        },
+        {
+            "keys": ["ctrl+t"],
+            "command": "side_bar_new_file2"
+        },
+        {
+            "keys": ["ctrl+3"],
+            "command": "side_bar_rename"
+        },
+        { "keys": ["/"], "command": "show_panel", "args": {"panel": "find", "reverse": false}},
+
+]
