@@ -8,10 +8,12 @@
 		"Colorsublime",
 		"Evernote",
 		"FileBrowser",
+		"FileDiffs",
 		"LaTeXTools",
 		"Markdown Preview",
 		"Package Control",
-		"Python Flake8 Lint",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
 		"Vintageous"
 	]
 }
