@@ -1,4 +1,6 @@
 {
         "font_face": "Lucida Grande",
-        "rulers": ["None"]
+        "rulers": ["None"],
+        "tab_size": 8,
+        "spell_check": true,
 }
