@@ -1,5 +1,5 @@
 {
-	"auto_complete_commit_on_tab": false,
+	"auto_complete_commit_on_tab": true,
 	"close_windows_when_empty": true,
 	"color_scheme": "Packages/User/SublimeLinter/Solarized-light (Flake8Lint) (SL).tmTheme",
 	"create_window_at_startup": false,
@@ -17,6 +17,5 @@
 	],
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
-	"use_tab_stops": true,
-	"vintageous_use_ctrl_keys": true
+	"vintageous_use_ctrl_keys": true,
 }
