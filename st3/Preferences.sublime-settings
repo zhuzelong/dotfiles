@@ -8,9 +8,9 @@
 	"font_size": 16,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
-	"open_files_in_new_window": false,
 	"rulers":
 	[
 		78
