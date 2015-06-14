@@ -9,12 +9,17 @@
 		"Evernote",
 		"FileBrowser",
 		"FileDiffs",
+		"Fix Mac Path",
 		"Jedi - Python autocompletion",
-		"LaTeXTools",
+		"knitr",
+		"LaTeX-cwl",
+		"LaTeXing",
 		"Markdown Preview",
 		"MarkdownEditing",
 		"Package Control",
+		"PackageResourceViewer",
 		"Python Flake8 Lint",
+		"R-Box",
 		"SublimeREPL",
 		"Vintageous"
 	]

@@ -1,7 +1,11 @@
 {
+	"additional_path_items":
+	[
+		"/usr/local/bin"
+	],
 	"auto_complete_commit_on_tab": true,
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/User/SublimeLinter/Solarized-light (Flake8Lint) (SL).tmTheme",
+	"color_scheme": "Packages/User/Solarized-light (Flake8Lint).tmTheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"font_face": "Source Code Pro",
 	"font_size": 16,
