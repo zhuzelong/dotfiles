@@ -11,14 +11,16 @@
 		"FileDiffs",
 		"Fix Mac Path",
 		"Jedi - Python autocompletion",
+		"Jekyll",
 		"knitr",
 		"LaTeXTools",
 		"Markdown Preview",
 		"MarkdownEditing",
 		"Package Control",
 		"PackageResourceViewer",
-		"Python Flake8 Lint",
 		"R-Box",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
 		"SublimeREPL",
 		"Vintageous"
 	]
