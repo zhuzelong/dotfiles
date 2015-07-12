@@ -5,7 +5,6 @@
 	"installed_packages":
 	[
 		"BracketHighlighter",
-		"Colorsublime",
 		"Evernote",
 		"FileBrowser",
 		"FileDiffs",
@@ -14,8 +13,8 @@
 		"Jekyll",
 		"knitr",
 		"LaTeXTools",
+		"Markdown Extended",
 		"Markdown Preview",
-		"MarkdownEditing",
 		"Package Control",
 		"PackageResourceViewer",
 		"R-Box",

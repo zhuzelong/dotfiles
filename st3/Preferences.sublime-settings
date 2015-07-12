@@ -5,14 +5,14 @@
 	],
 	"auto_complete_commit_on_tab": true,
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/User/SublimeLinter/Solarized (Light) (Flake8Lint) (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Solarized (Light) (SL).tmTheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"font_face": "Source Code Pro",
 	"font_size": 16,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Markdown"
+		"Markdown",
+		"Vintage"
 	],
 	"open_files_in_new_window": false,
 	"rulers":
