@@ -22,5 +22,6 @@
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
 	"typewriter_mode_scrolling": true,
+	"trim_trailing_white_space_on_save": true,
 	"vintageous_use_ctrl_keys": true
 }
