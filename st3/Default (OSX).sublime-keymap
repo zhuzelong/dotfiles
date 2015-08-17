@@ -10,7 +10,4 @@
             }
         },
 
-        { "keys": ["ctrl+v"], "command": "select_lines", "args": {"forward": false} },
-        { "keys": ["ctrl+v"], "command": "select_lines", "args": {"forward": true} },
-
 ]
