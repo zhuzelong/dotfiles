@@ -11,8 +11,8 @@
 	"font_size": 16,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Markdown"
+		"Markdown",
+		"Vintage"
 	],
 	"open_files_in_new_window": false,
 	"rulers":
